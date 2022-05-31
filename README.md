@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in: **App and Web Development**
 
-- 🌱 I’m currently learning: **Android Development**
+- 🌱 I’m currently learning: **Android Development,React.js**
 
 - 🌟 Main languages: **JavaScript,Java**
 
