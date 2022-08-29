@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raees Ahmed</h1>
-<h3 align="center">📚 I'm currently studying for a bachelor's degree in Software Engineering from Sir Syed University of Engineering and Technology</h3>
+<h3 align="center"> 📚 I'm currently studying for a bachelor's degree in Software Engineering from Sir Syed University of Engineering and Technology</h3>
 
 - 👀 I’m interested in: **Mobile and Web Development**
 
