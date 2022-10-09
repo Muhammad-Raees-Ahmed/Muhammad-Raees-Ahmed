@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile and Web Development**
 
-- 👨‍💻 I’m currently learning **Android App Development,React.js**
+- 👨‍💻 I’m currently learning **Android App Development,Kotlin**
 
 - 📫 How to reach me **muhammadraeesahmed38@gmail.com**
 
