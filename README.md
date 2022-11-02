@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-raees-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-raees-ahmed" /> </p>
 
-- 🔭 I’m currently working on **Mobile and Web Development**
+- 🔭 I’m currently working on :**Mobile and Web Development**
 
-- 👨‍💻 I’m currently learning **Android App Development,Kotlin**
+- 👨‍💻 I’m currently learning :**Android App Development,Kotlin**
 
 - 📫 How to reach me **muhammadraeesahmed38@gmail.com**
 
