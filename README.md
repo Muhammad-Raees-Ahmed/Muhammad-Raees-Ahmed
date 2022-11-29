@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning :**Android App Development,Kotlin,Java**
 
-- 📫 How to reach me **muhammadraeesahmed38@gmail.com**
+- 📫 How to reach me :**muhammadraeesahmed38@gmail.com**
 
 - ⚡ Fun fact **Sports**
 
