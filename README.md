@@ -2,7 +2,7 @@
 
 # Hi there, I'm Muhammad Raees Ahmed! 👋
 
-### 🚀 Full Stack & Mobile Developer | Software Engineering Student
+### 🚀 Full Stack & Mobile Developer | Software Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Developer;Android+%7C+iOS+%7C+React+Native;Full+Stack+Engineer;Always+learning+new+things!)](https://git.io/typing-svg)
 
